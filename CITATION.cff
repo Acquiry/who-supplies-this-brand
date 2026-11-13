@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this teaching kit, please cite the research edition."
+title: "Who actually supplies this brand? Teaching kit 1.1"
+version: "1.1"
+date-released: 2026-11-13
+license: CC-BY-4.0
+authors:
+  - family-names: Boyton
+    given-names: Joash
+    affiliation: Acquiry Labs
+url: "https://www.acquiry.com/labs/who-supplies-this-brand/editions/1.1/"
+preferred-citation:
+  type: report
+  title: "Who actually supplies this brand?"
+  edition: "Research edition 1.1"
+  date-published: 2026-11-13
+  institution:
+    name: Acquiry Labs
+  authors:
+    - family-names: Boyton
+      given-names: Joash
+  url: "https://www.acquiry.com/labs/who-supplies-this-brand/editions/1.1/"
