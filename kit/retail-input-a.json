@@ -1,0 +1,60 @@
+{
+  "scenario": "Synthetic retail teaching case, Scenario A (fictional)",
+  "shops": [
+    {
+      "id": "S01",
+      "shared_checkout": true,
+      "independent_platform_record": true
+    },
+    {
+      "id": "S02",
+      "shared_checkout": true,
+      "independent_platform_record": true
+    },
+    {
+      "id": "S03",
+      "shared_checkout": true,
+      "independent_platform_record": true
+    },
+    {
+      "id": "S04",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    },
+    {
+      "id": "S05",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    },
+    {
+      "id": "S06",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    },
+    {
+      "id": "S07",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    },
+    {
+      "id": "S08",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    },
+    {
+      "id": "S09",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    },
+    {
+      "id": "S10",
+      "shared_checkout": true,
+      "independent_platform_record": false
+    }
+  ],
+  "other_supplier_counts": {
+    "Birch": 8,
+    "Cove": 6,
+    "Dune": 4
+  }
+}

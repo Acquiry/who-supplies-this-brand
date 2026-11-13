@@ -1,0 +1,18 @@
+{
+  "before": [
+    "Arc",
+    "Birch",
+    "Cove"
+  ],
+  "after": [
+    "Birch",
+    "Cove",
+    "Arc"
+  ],
+  "arc_supported": 3,
+  "arc_unresolved": 7,
+  "third_place_after": {
+    "supplier": "Arc",
+    "supported_shops": 3
+  }
+}
