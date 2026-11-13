@@ -42,6 +42,7 @@ The kit files are byte-identical to those published with research edition 1.1. T
 
 - Research edition 1.1: https://www.acquiry.com/labs/who-supplies-this-brand/editions/1.1/
 - Companion dataset, *Embedded Payments Provider Map for Software Platforms*, dataset edition 1.1 (versioned separately): https://www.acquiry.com/data/embedded-payments-provider-map/editions/1.1/
+- Companion dataset DOI (Zenodo): https://doi.org/10.5281/zenodo.24183661
 
 ## Cite
 
