@@ -1,5 +1,7 @@
 # Who actually supplies this brand? Teaching kit 1.1
 
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Acquiry/who-supplies-this-brand/main?labpath=who-supplies-this-brand.ipynb)
+
 **Research lead:** Joash Boyton, Acquiry Labs.
 **Source edition:** [Who actually supplies this brand? Research edition 1.1](https://www.acquiry.com/labs/who-supplies-this-brand/editions/1.1/) (13 November 2026).
 
