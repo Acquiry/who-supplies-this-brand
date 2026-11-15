@@ -8,15 +8,18 @@ authors:
   - family-names: Boyton
     given-names: Joash
     affiliation: Acquiry Labs
+    orcid: "https://orcid.org/0009-0000-2405-8766"
 url: "https://www.acquiry.com/labs/who-supplies-this-brand/editions/1.1/"
 preferred-citation:
   type: report
   title: "Who actually supplies this brand?"
   edition: "Research edition 1.1"
   date-published: 2026-11-13
+  doi: 10.5281/zenodo.24237965
   institution:
     name: Acquiry Labs
   authors:
     - family-names: Boyton
       given-names: Joash
+      orcid: "https://orcid.org/0009-0000-2405-8766"
   url: "https://www.acquiry.com/labs/who-supplies-this-brand/editions/1.1/"
